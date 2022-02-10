@@ -5,6 +5,7 @@
 </div>
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gprzy/stroke-prediction/blob/main/stroke_prediction.ipynb)
+[![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](https://github.com/gprzy/stroke-prediction/blob/main/LICENSE)
 
 This project is a professional test for the position of Data Scientist, in which a problem of predicting stroke in patients is explored with machine learning. Furthermore, several steps of a typical data science project are covered, such as EDA, feature selection, as well as testing tree-based and neural network models.
  
